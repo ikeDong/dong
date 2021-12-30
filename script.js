@@ -467,7 +467,7 @@ function handleEscKey() {
 
 function handleTyping () {
   $(".element").typed({
-    strings: ["a Software Engineer", "a Framework Learner", "a Meat Lover"],
+    strings: ["a Software Engineer", "a Framework Learner", "a web worker"],
     typeSpeed: 50,
     starDelay: 200,
     backDelay: 600,
